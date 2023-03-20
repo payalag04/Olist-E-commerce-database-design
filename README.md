@@ -1,1 +1,3 @@
-# Olist-E-commerce-database-design
+Overview : -
+The database used for our project is a dataset that has been released by Olist E-Commerce website, which helps small businesses to connect with customers nationwide. The main aim of this database is to understand the different products available on the website, the customer outreach, item selling pattern, and access reviews given by the customers based on the product utilization. The focus of this dataset is to aim customers and sellers available in Brazil and its neighboring countries.
+We are using the same database to build our project which will revolve around retrieving data using SQL queries and display how it can effectively be used by users to access stored information using help of database admins.
